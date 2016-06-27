@@ -1,0 +1,34 @@
+h1 {
+  font-size: 40px;
+  color: blue;
+}
+
+h2 {
+  color: #800000;
+}
+
+.center {
+  text-align: center;
+}
+
+#welcome {
+  font-family: Wingdings;
+}
+
+.css-list {
+  background-color: red;
+  color: white;
+}
+
+.red-box {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+}
+
+.green-box {
+  height: 100px;
+  width: 100px;
+  background-color: green;
+
+}
